@@ -1,9 +1,9 @@
 #!/usr/bin/bash
 
-waybar &
+#waybar &
 
-#swaync
-#notify-send -a aurora "hello $(whoami)"
+swaync
+notify-send -a aurora "hello $(whoami)"
 
 # Clipboard Management
 exec-once = wl-paste --watch cliphist store
