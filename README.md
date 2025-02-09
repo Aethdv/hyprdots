@@ -12,6 +12,24 @@
                    : :: :' '_.': : : .. :' .; :: `; :   `._-.'   _ : :; :' .; :: :`._-.'
                    :_;:_;`.__.':_; :_;:_;`.__.'`.__.'   `.__.'  :_;:___.'`.__.':_;`.__.'
 ```
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="1600" height="20" />
+
+<br>
+<div>
+    <a href="https://github.com/Aethdv/hyprdots/issues">
+        <img src="https://img.shields.io/github/issues/Aethdv/hyprdots?color=fab387&labelColor=303446&style=for-the-badge">
+    </a>
+    <a href="https://github.com/Aethdv/hyprdots/stargazers">
+        <img src="https://img.shields.io/github/stars/Aethdv/hyprdots?color=ca9ee6&labelColor=303446&style=for-the-badge">
+    </a>
+    <a href="https://github.com/Aethdv/hyprdots/">
+        <img src="https://img.shields.io/github/repo-size/Aethdv/hyprdots?color=ea999c&labelColor=303446&style=for-the-badge">
+    </a>
+    <a href="https://github.com/Aethdv/hyprdots/LICENSE">
+        <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=ca9ee6&colorA=313244&colorB=cba6f7"/>
+    </a>
+    <br>
+  </div>
 
 ### Welcome to my Hyprland dotfiles repository! This is my personal configuration for Hyprland, a dynamic tiling Wayland compositor.
 
@@ -28,7 +46,7 @@ Here’s what’s included in my setup:
 - **<img src="https://cdn3.emoji.gg/emojis/6542_DuckDance.gif" alt="Duck" width="20" height="20" /> TFM**: [Yazi](https://github.com/sxyazi/yazi)
 - **<img src="https://emojis.slackmojis.com/emojis/images/1620895689/38711/folder-peek.gif?1620895689" alt="FolderPeek" width="16" height="16" /> File Manager**: [Nemo]()
 - **<img src="https://cdn3.emoji.gg/emojis/94947-blueseashell.png" alt="BlueShell" width="18" height="18" /> Shell**: [Zsh](https://www.zsh.org/) with [Oh My Zsh](https://ohmyz.sh/)
-- **<img src="https://cdn3.emoji.gg/emojis/7255-hamburgerwink.gif" alt="Hamburgah" width="16" height="16" /> Editor**: [Neovim](https://neovim.io/) and [VScode](https://github.com/microsoft/vscode)
+- **<img src="https://cdn3.emoji.gg/emojis/7255-hamburgerwink.gif" alt="Hamburgah" width="16" height="16" /> Editor**: [VScode](https://github.com/microsoft/vscode) / [Neovim](https://neovim.io/)
 - **<img src="https://cdn3.emoji.gg/emojis/57636-onigiri.png" alt="Onigiri" width="16" height="16" /> Themes**: [Nord](https://github.com/nordtheme/nord)
 
 ### **Remember** to backup your .dotfiles
