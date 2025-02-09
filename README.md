@@ -35,9 +35,13 @@ Here’s what’s included in my setup:
 `mv ~/.config ~/.config-backup`
 
 ## Dependencies
-`sudo pacman -Sy --needed base-devel lsd rust git wl-clipboard wl-clip-persist btop swaync hyprlock hyprpaper hyprpicker zsh neovim nemo iniparser rofi-wayland nerd-fonts awesome-terminal-fonts otf-font-awesome ttf-font-awesome ttf-jetbrains-mono`
+```
+sudo pacman -Sy --needed base-devel lsd rust git wl-clipboard wl-clip-persist btop swaync hyprlock hyprpaper hyprpicker zsh neovim nemo iniparser rofi-wayland nerd-fonts awesome-terminal-fonts otf-font-awesome ttf-font-awesome ttf-jetbrains-mono
+```
 
-`yay -S --needed xdg-desktop-portal-wlr qt5-wayland qt6-wayland qt6-svg qt6-virtualkeyboard qt6-multimedia-ffmpeg bat cliphist wlogout sddm-git light pipewire wireplumber waybar`
+```
+yay -S --needed xdg-desktop-portal-wlr qt5-wayland qt6-wayland qt6-svg qt6-virtualkeyboard qt6-multimedia-ffmpeg bat cliphist wlogout sddm-git light pipewire wireplumber waybar
+```
 
 ### Additional Dependencies
 <details>
