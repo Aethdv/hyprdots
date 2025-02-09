@@ -25,7 +25,7 @@ Here’s what’s included in my setup:
 - **<img src="https://cdn3.emoji.gg/emojis/28630-chocolate.gif" alt="Hamburgah" width="16" height="16" /> Bar**: [Waybar](https://github.com/Alexays/Waybar) [not used atm]
 - **<img src="https://cdn3.emoji.gg/emojis/69955-rocket-animated.gif" alt="Rocket" width="16" height="16" /> Launcher**: [Rofi](https://github.com/davatorium/rofi)
 - **<img src="https://cdn3.emoji.gg/emojis/5337-terminal-raveninha.png" alt="Term" width="16" height="15" /> Terminal**: [Kitty](https://sw.kovidgoyal.net/kitty/)
-- **<img src="https://cdn3.emoji.gg/emojis/6542_DuckDance.gif" alt="Duck" width="20" height="20" /> TFM**: [Yazi]([Yazi](https://github.com/sxyazi/yazi))
+- **<img src="https://cdn3.emoji.gg/emojis/6542_DuckDance.gif" alt="Duck" width="20" height="20" /> TFM**: [Yazi](https://github.com/sxyazi/yazi)
 - **<img src="https://emojis.slackmojis.com/emojis/images/1620895689/38711/folder-peek.gif?1620895689" alt="FolderPeek" width="16" height="16" /> File Manager**: [Nemo]()
 - **<img src="https://cdn3.emoji.gg/emojis/94947-blueseashell.png" alt="BlueShell" width="18" height="18" /> Shell**: [Zsh](https://www.zsh.org/) with [Oh My Zsh](https://ohmyz.sh/)
 - **<img src="https://cdn3.emoji.gg/emojis/7255-hamburgerwink.gif" alt="Hamburgah" width="16" height="16" /> Editor**: [Neovim](https://neovim.io/) and VScode
