@@ -14,21 +14,12 @@
 ```
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="1600" height="20" />
 
-<br>
-<div>
-    <a href="https://github.com/Aethdv/hyprdots/issues">
-        <img src="https://img.shields.io/github/issues/Aethdv/hyprdots?color=fab387&labelColor=303446&style=for-the-badge">
-    </a>
-    <a href="https://github.com/Aethdv/hyprdots/stargazers">
-        <img src="https://img.shields.io/github/stars/Aethdv/hyprdots?color=ca9ee6&labelColor=303446&style=for-the-badge">
-    </a>
-    <a href="https://github.com/Aethdv/hyprdots/">
-        <img src="https://img.shields.io/github/repo-size/Aethdv/hyprdots?color=ea999c&labelColor=303446&style=for-the-badge">
-    </a>
-    <a href="https://github.com/Aethdv/hyprdots/LICENSE">
-        <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=ca9ee6&colorA=313244&colorB=cba6f7"/>
-    </a>
-    <br>
+<div align="center"> 
+
+![](https://img.shields.io/github/last-commit/Aethdv/hyprdots?&style=for-the-badge&color=F5C2E7&logoColor=D9E0EE&labelColor=292324)
+![](https://img.shields.io/github/stars/Aethdv/hyprdots?style=for-the-badge&logo=andela&color=FFBFA5&logoColor=D9E0EE&labelColor=292324)
+![](https://img.shields.io/github/repo-size/Aethdv/hyprdots?color=C3E5D0&label=SIZE&logo=googledrive&style=for-the-badge&logoColor=D9E0EE&labelColor=292324)
+![](https://img.shields.io/badge/issues-skill-green?style=for-the-badge&color=B4CEEA&logoColor=D9E0EE&labelColor=292324) 
   </div>
 
 ### Welcome to my Hyprland dotfiles repository! This is my personal configuration for Hyprland, a dynamic tiling Wayland compositor.
