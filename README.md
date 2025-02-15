@@ -83,7 +83,6 @@ sudo pacman -Sy --needed gtest boost fuse fastfetch zlib gcc clang cmake make me
 ## 🛠️ **Additional Setup**
 
 ### **Yazi (File Manager)**
-Install Yazi via `cargo` or build it from source:
 
 #### Via Cargo:
 ```bash
@@ -110,7 +109,6 @@ You can customize the theme by editing the `metadata.desktop` file:
 ```
 
 ### **Nord Theme**
-Install the Nord theme via `npm` or `yarn`:
 
 #### Via npm:
 ```bash
