@@ -59,7 +59,7 @@ mv ~/.config ~/.config-backup
 
 ### **Step 2: Install Dependencies**
 
-#### Git clone the repository
+#### Git clone the repository -> https://github.com/Aethdv/hyprdots.git
 
 #### Core Dependencies:
 ```bash
