@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-#waybar &
+waybar &
 
 swaync
 notify-send -a aurora "hello $(whoami)"
@@ -13,10 +13,14 @@ wl-clip-persist --clipboard regular --all-mime-type-regex '(?i)^(?!image/x-inksc
 blueman-applet &
 nm-applet --indicator &\
 
-# WL
-exec-once=swww init
-exec-once=swww img ~/.config/hypr/wallpaper.jpg
+# Wallpaper
+hyprpaper &
+exec-once = ~/.scripts/wpch.sh
 
 # Fixes
-exec-once = dbus-update-activation-environment --systemd WAYLAND_DISPLAY XDG_CURRENT_DESKTOP --all & # Apps opening up long fix
+exec-once = dbus-update-activation-environment --systemd WAYLAND_DISPLAY=$WAYLAND_DISPLAY XDG_CURRENT_DESKTOP=Hyprland --all & # Apps opening up long fix, works only on SystemD
+##You can just do this instead;
+#export WAYLAND_DISPLAY=wayland-1
+#export XDG_CURRENT_DESKTOP=Hyprland
+
 exec-once = rofi -enable-drw-true # Better rofi integration in Wayland
