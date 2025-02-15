@@ -61,14 +61,12 @@ yay -S --needed xdg-desktop-portal-wlr qt5-wayland qt6-wayland qt6-svg qt6-virtu
 #### via cargo (Rust Package Manager)
 `cargo install yazi`
 #### from source
-<details>
 ```
 git clone https://github.com/sxyazi/yazi.git
 cd yazi
 cargo build --release
 sudo mv target/release/yazi /usr/local/bin/
 ```
-</details>
 
 ## [SDDM Theme](https://github.com/Keyitdev/sddm-astronaut-theme)
 `sh -c "$(curl -fsSL https://raw.githubusercontent.com/keyitdev/sddm-astronaut-theme/master/setup.sh)"`
