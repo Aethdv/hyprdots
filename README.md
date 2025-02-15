@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 **Welcome to Hyprdots!**
+## 🚀 **Welcome to my repo!**
 
 This repository contains my personal configuration for **Hyprland**, a dynamic tiling Wayland compositor. It’s designed to be sleek, efficient, and highly customizable. Whether you're a seasoned Linux user or just getting started, feel free to explore, fork, or adapt these dotfiles to suit your needs!
 
