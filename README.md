@@ -58,7 +58,8 @@ mv ~/.config ~/.config-backup
 ```
 
 ### **Step 2: Install Dependencies**
-Install the required packages using `pacman` and `yay`:
+
+#### Git clone the repository
 
 #### Core Dependencies:
 ```bash
