@@ -83,9 +83,9 @@ sudo pacman -Sy --needed gtest boost fuse fastfetch zlib gcc clang cmake make me
 
 ## 🛠️ **Additional Setup**
 
-### **Yazi (File Manager)**
+### **Yazi (Terminal File Manager)**
 
-#### via pacman / chaotic-aur (yazi-git)
+#### via Pacman / Chaotic-Aur (yazi-git)
 ```bash
 sudo pacman -S yazi
 ```
@@ -95,7 +95,7 @@ sudo pacman -S yazi
 cargo install yazi
 ```
 
-#### from Source:
+#### via Src:
 ```bash
 git clone https://github.com/sxyazi/yazi.git
 cd yazi
