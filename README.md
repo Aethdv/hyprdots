@@ -30,7 +30,8 @@ This repository contains my personal configuration for **Hyprland**, a dynamic t
 
 ---
 
-# Warning! This repo is temporarily abandoned, and unfinished. It will get it's respectable rewrite in the nearest future.
+# Warning!! 
+### This repo is temporarily abandoned, and unfinished. It will get it's respectable rewrite in the nearest future.
 
 ## ✨ **Features**
 
